@@ -7,6 +7,7 @@
 int main(int argc, char **argv)
 {
     // Initialize SDL with video support
+    // Automatically initializes the Event Handling, File I/O and Threading subsystems
     if (SDL_Init(SDL_INIT_VIDEO) < 0)
     {
         printf("Error: SDL failed to initialize\nSDL Error: '%s'\n", SDL_GetError());
