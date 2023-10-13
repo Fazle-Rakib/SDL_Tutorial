@@ -62,7 +62,7 @@ void process_input(void)
     }
 }
 
-void update(void)
+void draw(void)
 {
     // Set the render draw color (R, G, B, A)
     SDL_SetRenderDrawColor(renderer, 10, 20, 205, 255);
@@ -92,8 +92,8 @@ int main(int argc, char **argv)
         // Continuously polls for SDL events
         process_input();
 
-        // Where the magic happens
-        update();
+        // Draw the rendered window
+        draw();
     }
 
     // Clean up and exit the application
