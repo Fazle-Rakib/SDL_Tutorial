@@ -77,15 +77,6 @@ void incrementVariable()
 
 void update(void)
 {
-    // Set the render draw color (R, G, B, A)
-    SDL_SetRenderDrawColor(renderer, redColorCode, 20, 205, 255);
-
-    // Clear the renderer with the specified draw color
-    SDL_RenderClear(renderer);
-
-    // Present the renderer (draw the frame to the window)
-    SDL_RenderPresent(renderer);
-
     // Calculate time elapsed since the start
     currentTime = SDL_GetTicks();
     Uint32 elapsedTime = currentTime - startTime;
@@ -96,6 +87,18 @@ void update(void)
         incrementVariable();
         startTime = currentTime;
     }
+}
+
+void draw()
+{
+    // Set the render draw color (R, G, B, A)
+    SDL_SetRenderDrawColor(renderer, redColorCode, 20, 205, 255);
+
+    // Clear the renderer with the specified draw color
+    SDL_RenderClear(renderer);
+
+    // Present the renderer (draw the frame to the window)
+    SDL_RenderPresent(renderer);
 }
 
 void destroyWindow(void)
@@ -119,6 +122,9 @@ int main(int argc, char **argv)
 
         // Where the magic happens
         update();
+
+        // Draw the rendered window
+        draw();
     }
 
     // Clean up and exit the application
