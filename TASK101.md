@@ -23,7 +23,7 @@ Modify the drawing circle with its radius being increased over time. If it colid
 ## Task_103
 
 - Draw a circle which moves towards its left to write continiously.
-- Draw another circle(x = center of screen\*width, y = 0). The second circle can be moved with key-inputs(up, down, left, right keys).
+- Draw another circle(x = center of screen_width, y = 0). The second circle can be moved with key-inputs(up, down, left, right keys).
 - Determine if any collision occurs between the two circle.
 - Visual effect of collision.
 
