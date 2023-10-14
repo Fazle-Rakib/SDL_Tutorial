@@ -22,6 +22,10 @@ Copy source codes from examples and paste in src path with a proper folder struc
 
 <http://lazyfoo.net/tutorials/SDL/index.php>
 
+## Tasks
+
+1. [Task 101](TASK101.md)
+
 ## Supplementary
 
 ### Git & Github tutorial
@@ -39,3 +43,9 @@ Copy source codes from examples and paste in src path with a proper folder struc
 ### Naming Practices in C++
 
 <https://www.youtube.com/watch?v=dPULxf6f-vs&ab_channel=CodingCleverly>
+
+## Other Graphics Library
+
+- [OpenGL](https://www.opengl.org/)
+- [FreeGLUT](https://freeglut.sourceforge.net/)
+- [SFML](https://www.sfml-dev.org/)
