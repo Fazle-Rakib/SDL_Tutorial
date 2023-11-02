@@ -30,11 +30,7 @@ Copy source codes from examples and paste in src path with a proper folder struc
 
 ### Git & Github tutorial
 
-<https://www.youtube.com/watch?v=tRZGeaHPoaw&ab_channel=KevinStratvert>
-
-### Git & Github tutorial (Bangla)
-
-<https://www.youtube.com/playlist?list=PLNMnAEqLBwmqnr-hhIa2z-2janfklDV4A>
+<https://github.com/Fazle-Rakib/git-startup>
 
 ### Naming Practices (7 mins)
 
