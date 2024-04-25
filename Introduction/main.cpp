@@ -65,7 +65,7 @@ void process_input(void)
 void draw(void)
 {
     // Set the render draw color (R, G, B, A)
-    SDL_SetRenderDrawColor(renderer, 10, 20, 205, 255);
+    SDL_SetRenderDrawColor(renderer, 205, 20, 205, 255);
 
     // Clear the renderer with the specified draw color
     SDL_RenderClear(renderer);
