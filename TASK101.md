@@ -1,4 +1,4 @@
-# Task 101: Project Work - 1st task
+# Task 10x: Project Work - 1st task
 
 These tasks are to assess students' data structure learning and problem-solving skills using SDL.
 
@@ -22,9 +22,8 @@ The folder structure should look like this:
 ├─ Task_103.cpp/
 ```
 
-**Date of Submission: 19/10/2023**
 
-**Final Submission date of `task_101`, `task_102`, `task_103` : 06/11/2023**
+**Final Submission date of `task_101`, `task_102`, `task_103` : 09/05/2024**
 
 ## Task_101
 
