@@ -1,6 +1,6 @@
 # SWE 150: Project Work-1
 
-A game project with SDL as an acedemic course of SWE, IICT, SUST. In this repo, there are some basics demostration of SDL library to generate graphics.
+A game project with SDL as an academic course of SWE, IICT, SUST. In this repo, there are some basic demonstrations of SDL library to generate graphics.
 
 ## Setup
 
@@ -10,7 +10,7 @@ A game project with SDL as an acedemic course of SWE, IICT, SUST. In this repo, 
 
 ## Examples
 
-Copy source codes from examples and paste in src path with a proper folder structure.
+Copy source codes from examples and paste in the src path with a proper folder structure.
 
 ## References
 
@@ -40,6 +40,8 @@ Copy source codes from examples and paste in src path with a proper folder struc
 ### Naming Practices in C++
 
 <https://www.youtube.com/watch?v=dPULxf6f-vs&ab_channel=CodingCleverly>
+<https://github.com/kettanaito/naming-cheatsheet>
+<https://gist.github.com/z11i/ee550667ec4271fa493d>
 
 ## Other Graphics Library
 
