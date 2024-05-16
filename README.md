@@ -40,7 +40,9 @@ Copy source codes from examples and paste in the src path with a proper folder s
 ### Naming Practices in C++
 
 <https://www.youtube.com/watch?v=dPULxf6f-vs&ab_channel=CodingCleverly>
+
 <https://github.com/kettanaito/naming-cheatsheet>
+
 <https://gist.github.com/z11i/ee550667ec4271fa493d>
 
 ## Other Graphics Library
